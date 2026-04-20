@@ -48,25 +48,13 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Enesatay9899&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&include_all_commits=true&bg_color=0d1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Enesatay9899&show_icons=true&theme=default&hide_border=true&border_radius=12&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Enesatay9899&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&include_all_commits=true&bg_color=0d1117" />
-</picture>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Enesatay9899&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 &nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Enesatay9899&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=6&bg_color=0d1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Enesatay9899&layout=compact&theme=default&hide_border=true&border_radius=12&langs_count=6" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enesatay9899&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=6&bg_color=0d1117" />
-</picture>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enesatay9899&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Enesatay9899&theme=github-dark-blue&hide_border=true&border_radius=12&background=0D1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Enesatay9899&theme=default&hide_border=true&border_radius=12" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Enesatay9899&theme=github-dark-blue&hide_border=true&border_radius=12&background=0D1117" />
-</picture>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Enesatay9899&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -76,7 +64,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Enesatay9899&custom_title=Enes's%20Contribution%20Graph&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Enesatay9899&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="95%"/>
 
 </div>
 
