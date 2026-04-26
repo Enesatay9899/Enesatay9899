@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Enesatay9899&color=58a6ff&style=for-the-badge&label=Profile+Views)](https://github.com/Enesatay9899)
+[![Profile Views](https://komarev.com/ghpvc/?username=Enes9899&color=58a6ff&style=for-the-badge&label=Profile+Views)](https://github.com/Enes9899)
 
 </div>
 
@@ -34,8 +34,8 @@
 
 | | Project | Details |
 |:--|:--------|:------------|
-| :rocket: | **[EnesRtp](https://github.com/Enesatay9899/EnesRtp-Plugin-Folia)** | Folia-supported Random Teleport plugin for modern Minecraft servers. |
-| :zap: | **[EnesRtpZone](https://github.com/Enesatay9899/EnesRtpZone-Plugin-Folia)** | Advanced zone-based RTP system designed for high-performance Folia environments. |
+| :rocket: | **[EnesRtp](https://github.com/Enes9899/EnesRtp-Plugin-Folia)** | Folia-supported Random Teleport plugin for modern Minecraft servers. |
+| :zap: | **[EnesRtpZone](https://github.com/Enes9899/EnesRtpZone-Plugin-Folia)** | Advanced zone-based RTP system designed for high-performance Folia environments. |
 
 </td>
 </tr>
@@ -67,7 +67,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Enesatay9899&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Enes9899&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="95%"/>
 
 </div>
 
